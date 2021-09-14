@@ -3,8 +3,8 @@ version: "3"
 id: "cloudbees-ci-dtg-ops-controller"
 description: "CloudBees CI configuration bundle for the cloudbees-ci-dtg ops-controller Controller"
 jcasc:
-  - "jacsc/jenkins.yaml"
-  - "jacsc/credentials.yaml"
+  - "jaccsc/jenkins.yaml"
+  - "jaccsc/credentials.yaml"
 plugins:
   - "plugins.yaml"
 catalog:
